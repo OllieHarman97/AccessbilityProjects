@@ -1,0 +1,45 @@
+.scanBarX{
+    width: 1px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: red;
+    opacity: 0.5;
+    display: none;
+    pointer-events: none;
+}
+
+.scanBarY{
+    height: 1px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: red;
+    opacity: 0.5;
+    display: none;
+    pointer-events: none;
+}
+
+.scrollButton{
+    height: 100px;
+    width: 400px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: aqua;
+    color: black;
+    font-weight: 700;
+    text-align: center;
+    vertical-align:auto;
+    font-size:x-large;
+    opacity: 0.7;
+}
+
+.keyboard1{
+    position: fixed;
+    bottom: 0;
+    align-items: center;
+    display: none;
+}

@@ -1,0 +1,14 @@
+.mydiv{
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    width: 500px;
+    left: 37%; 
+    top: 10%;
+    z-index: 10;
+    padding: 100px,100px,100px,100px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+}
